@@ -1,1 +1,65 @@
-var employee = '{"name":"John", "age":30, "car":null}';
+{
+    "employees": [
+      {
+        "id": 1,
+        "first_name": "Sebastian",
+        "salary": "200",
+        "department": "marketing"
+      },
+      {
+        "id": 2,
+        "first_name": "Steve",
+        "salary": "5000",
+        "department": "HR"
+      },
+      {
+        "id": 3,
+        "first_name": "Draymond",
+        "salary": "800",
+        "department": "resource"
+      },
+      {
+        "id": 4,
+        "first_name": "Jane",
+        "salary": "900000",
+        "department": "IT"
+      }
+      ,
+      {
+        "id": 5,
+        "first_name": "Kyle",
+        "salary": "4500",
+        "department": "sales"
+      },
+      {
+        "id": 6,
+        "first_name": "Joel",
+        "salary": "23000",
+        "department": "management"
+      },
+      {
+        "id": 7,
+        "first_name": "Stephen",
+        "salary": "8090",
+        "department": "networking"
+      },
+      {
+        "id": 8,
+        "first_name": "Jack",
+        "salary": "700",
+        "department": "Tech"
+      },
+      {
+        "id": 9,
+        "first_name": "Mary",
+        "salary": "300",
+        "department": "maintenence"
+      },
+      {
+        "id": 10,
+        "first_name": "Andy",
+        "salary": "1000",
+        "department": "nobodyknowswhatdoes"
+      }
+    ]
+  }
